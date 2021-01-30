@@ -1,6 +1,6 @@
 
 i have frequencies to talk to and from a satellite. 
-My goal is to know where to point an antenna, and what frequencies to tune to talk with that satellite.
+My goal is to know where to point an antenna, and what frequencies to tune to talk with that satellite accounting for doppler.
 
 the satellite has the usual TLE data https://en.wikipedia.org/wiki/Two-line_element_set
 
